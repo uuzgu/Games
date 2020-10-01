@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="692b3f31-e33b-4a34-824f-54befb009bb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../WoodCutterGame-master/WoodCutter/Assets/Scripts/Slicer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../WoodCutterGame-master/WoodCutter/Assets/Scripts/CameraShake.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Testere.cs" />
+        <option value="$PROJECT_DIR$/Col.cs" />
+        <option value="$PROJECT_DIR$/../../WoodCutterGame-master/New Unity Project/Assets/moveCol.cs" />
+        <option value="$PROJECT_DIR$/Colli.cs" />
+        <option value="$PROJECT_DIR$/Collision.cs" />
+        <option value="$PROJECT_DIR$/Kes.cs" />
+        <option value="$PROJECT_DIR$/../../WoodCutterGame-master/WoodCutter/Assets/Scripts/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/../../WoodCutterGame-master/WoodCutter/Assets/Scripts/Slicer.cs" />
+        <option value="$PROJECT_DIR$/HitSound.cs" />
+        <option value="$PROJECT_DIR$/Saw.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEi0Seljb8MamkUWl3fZNrEMFF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="692b3f31-e33b-4a34-824f-54befb009bb3" name="Default Changelist" comment="" />
+      <created>1601478932842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601478932842</updated>
+      <workItem from="1601478935570" duration="7000" />
+      <workItem from="1601478976463" duration="6707000" />
+      <workItem from="1601487058737" duration="1500000" />
+      <workItem from="1601489533773" duration="4838000" />
+      <workItem from="1601539502916" duration="3339000" />
+      <workItem from="1601542973054" duration="9697000" />
+      <workItem from="1601578136697" duration="107000" />
+      <workItem from="1601585574582" duration="4553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1601586917620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1601586917620" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601489842435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601489842435" />
+  </component>
+</project>
